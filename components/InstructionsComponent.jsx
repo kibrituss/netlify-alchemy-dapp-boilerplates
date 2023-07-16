@@ -19,7 +19,7 @@ export default function InstructionsComponent() {
 					href={"https://www.kibrit.com.tr/rental-gpu-render-farm/"}
 				>
 					<div className={styles.button}>
-						{/* <img src="https://static.alchemyapi.io/images/cw3d/Icon%20Medium/lightning-square-contained-m.svg" width={"20px"} height={"20px"} /> */}
+						{/* <img src="https://kibrit.com.tr/tmp/favicon.svg" width={"20px"} height={"20px"} /> */}
 						<p>Cloud Render Farm</p>
 					</div>
 				</a>
@@ -38,7 +38,7 @@ export default function InstructionsComponent() {
 				>
 					<div className={styles.button}>
 						<img
-							src="https://static.alchemyapi.io/images/cw3d/Icon%20Large/file-eye-01-l.svg"
+							src="https://kibrit.com.tr/tmp/favicon.svg"
 							width={"20px"}
 							height={"20px"}
 						/>
@@ -50,7 +50,7 @@ export default function InstructionsComponent() {
 				<a href="https://www.kibrit.com.tr" target={"_blank"}>
 					<img
 						id="badge-button"
-						style={{ width: "240px", height: "53px" }}
+						style={{ width: "100px", height: "53px" }}
 						src="https://www.kibrit.com.tr/wp-content/uploads/2020/08/Kibrit_logo_3D-Animation-Studios.png"
 						alt="All About 3D Animation and more"
 					/>
