@@ -6,7 +6,7 @@ export default function InstructionsComponent() {
 		<div className={styles.container}>
 			<header className={styles.header_container}>
 				<h1>
-					create<span>-web3-dapp</span>
+					Create<span>3D Animation in the Cloud</span>
 				</h1>
 				<p>
 					Welcome to future that you can reach up to 100K Cuda Core in Single Render Server for your outstanding 3D Project's Rendering Processes.
