@@ -27,6 +27,10 @@ export default function InstructionsComponent() {
 						<p>Cloud Render Farm</p>
 					</div>
 				</a>
+				<p>
+					V-Ray Cloud Render Farm, Online Render Farm Services by Kibrit Creative Solutions, GPU Based Blender Render Farm
+				</p>
+				
 				<a
 					target={"_blank"}
 					href={"https://www.kibrit.com.tr/gpu-render-farm-cost-estimator/"}
