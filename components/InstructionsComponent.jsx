@@ -28,7 +28,7 @@ export default function InstructionsComponent() {
 					href={"https://www.kibrit.com.tr/gpu-render-farm-cost-estimator/"}
 				>
 					<div className={styles.button}>
-						{/* <img src="https://static.alchemyapi.io/images/cw3d/Icon%20Medium/lightning-square-contained-m.svg" width={"20px"} height={"20px"} /> */}
+						{/* <img src="https://www.kibrit.com.tr/wp-content/uploads/2020/08/Kibrit_logo_3D-Animation-Studios.png" width={"20px"} height={"20px"} /> */}
 						<p>Cloud Render Farm Cost Estimator</p>
 					</div>
 				</a>
@@ -51,7 +51,7 @@ export default function InstructionsComponent() {
 					<img
 						id="badge-button"
 						style={{ width: "240px", height: "53px" }}
-						src="https://static.alchemyapi.io/images/marketing/badgeLight.png"
+						src="https://www.kibrit.com.tr/wp-content/uploads/2020/08/Kibrit_logo_3D-Animation-Studios.png"
 						alt="All About 3D Animation and more"
 					/>
 				</a>
