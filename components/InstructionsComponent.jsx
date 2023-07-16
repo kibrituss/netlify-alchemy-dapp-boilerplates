@@ -19,7 +19,11 @@ export default function InstructionsComponent() {
 					href={"https://www.kibrit.com.tr/rental-gpu-render-farm/"}
 				>
 					<div className={styles.button}>
-						{/* <img src="https://kibrit.com.tr/tmp/favicon.svg" width={"20px"} height={"20px"} /> */}
+						<img
+							src="https://kibrit.com.tr/tmp/favicon.svg"
+							width={"20px"}
+							height={"20px"}
+						/>
 						<p>Cloud Render Farm</p>
 					</div>
 				</a>
