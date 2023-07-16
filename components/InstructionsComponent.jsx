@@ -9,8 +9,7 @@ export default function InstructionsComponent() {
 					create<span>-web3-dapp</span>
 				</h1>
 				<p>
-					Wellcome to Hevaen of Cuda for your renderin task in the cloud{" "}
-					<span>/pages/index.js</span>
+					Welcome to future that you can reach up to 100K Cuda Core in Single Render Server for your outstanding 3D Project's Rendering Processes.
 				</p>
 			</header>
 
