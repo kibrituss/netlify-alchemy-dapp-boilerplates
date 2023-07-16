@@ -9,7 +9,7 @@ export default function InstructionsComponent() {
 					create<span>-web3-dapp</span>
 				</h1>
 				<p>
-					Get started by editing this page in{" "}
+					Wellcome to Hevaen of Cuda for your renderin task in the cloud{" "}
 					<span>/pages/index.js</span>
 				</p>
 			</header>
@@ -17,25 +17,25 @@ export default function InstructionsComponent() {
 			<div className={styles.buttons_container}>
 				<a
 					target={"_blank"}
-					href={"https://createweb3dapp.alchemy.com/#components"}
+					href={"https://www.kibrit.com.tr/rental-gpu-render-farm/"}
 				>
 					<div className={styles.button}>
 						{/* <img src="https://static.alchemyapi.io/images/cw3d/Icon%20Medium/lightning-square-contained-m.svg" width={"20px"} height={"20px"} /> */}
-						<p>Add Components</p>
+						<p>Cloud Render Farm</p>
 					</div>
 				</a>
 				<a
 					target={"_blank"}
-					href={"https://createweb3dapp.alchemy.com/#templates"}
+					href={"https://www.kibrit.com.tr/gpu-render-farm-cost-estimator/"}
 				>
 					<div className={styles.button}>
 						{/* <img src="https://static.alchemyapi.io/images/cw3d/Icon%20Medium/lightning-square-contained-m.svg" width={"20px"} height={"20px"} /> */}
-						<p>Explore Templates</p>
+						<p>Cloud Render Farm Cost Estimator</p>
 					</div>
 				</a>
 				<a
 					target={"_blank"}
-					href={"https://docs.alchemy.com/docs/create-web3-dapp"}
+					href={"https://www.kibrit.com.tr/product/cloud-gpu-render-server-1w-4xrtx3090/"}
 				>
 					<div className={styles.button}>
 						<img
@@ -43,31 +43,31 @@ export default function InstructionsComponent() {
 							width={"20px"}
 							height={"20px"}
 						/>
-						<p>Visit Docs</p>
+						<p>Cloud Render Farm Credit Packs</p>
 					</div>
 				</a>
 			</div>
 			<div className={styles.footer}>
-				<a href="https://alchemy.com/?a=create-web3-dapp" target={"_blank"}>
+				<a href="https://www.kibrit.com.tr" target={"_blank"}>
 					<img
 						id="badge-button"
 						style={{ width: "240px", height: "53px" }}
 						src="https://static.alchemyapi.io/images/marketing/badgeLight.png"
-						alt="Alchemy Supercharged"
+						alt="All About 3D Animation and more"
 					/>
 				</a>
 				<div className={styles.icons_container}>
 					<div>
 						<a
-							href="https://github.com/alchemyplatform/create-web3-dapp"
+							href="https://g.page/r/CeeuGANdrEKGEB0/review"
 							target={"_blank"}
 						>
-							Leave a star on Github
+							Leave a star on Google Bussiness
 						</a>
 					</div>
 					<div>
 						<a
-							href="https://twitter.com/AlchemyPlatform"
+							href="https://twitter.com/KibritCreative"
 							target={"_blank"}
 						>
 							Follow us on Twitter
